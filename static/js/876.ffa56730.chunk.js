@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfirst_project_on_reack=self.webpackChunkfirst_project_on_reack||[]).push([[876],{9876:function(t,r,i){i.r(r),i.d(r,{default:function(){return c}});i(2791);var s=i(184),c=function(t){return(0,s.jsxs)("div",{children:["Music",(0,s.jsx)("img",{src:"https://images.unsplash.com/photo-1487180144351-b8472da7d491?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",width:"700px"})]})}}}]);
+//# sourceMappingURL=876.ffa56730.chunk.js.map
